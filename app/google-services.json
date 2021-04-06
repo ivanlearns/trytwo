@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141756596246",
+    "project_id": "trytwoapp",
+    "storage_bucket": "trytwoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141756596246:android:d2bdf725595e0ea317b537",
+        "android_client_info": {
+          "package_name": "com.example.trytwoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141756596246-emt22b2bcel3im6lh7riop571t946nn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRBavnJxlrxHJRIqjCaa-M-ChyR0LF6XY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141756596246-emt22b2bcel3im6lh7riop571t946nn0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

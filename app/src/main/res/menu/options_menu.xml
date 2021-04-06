@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Encuentra Amigos"
+        android:id="@+id/encuentra_amigos"
+        app:showAsAction="never"></item>
+
+    <item
+        android:title="Crea un grupo"
+        android:id="@+id/create_group_dropdown"
+        app:showAsAction="never"></item>
+
+    <item
+        android:title="Opciones"
+        android:id="@+id/settings_dropdown"
+        app:showAsAction="never"></item>
+
+    <item
+        android:title="Salir de tu cuenta"
+        android:id="@+id/logOut"
+        app:showAsAction="never"></item>
+</menu>
